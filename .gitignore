@@ -1,0 +1,4 @@
+node_modules/
+log.log
+temp/
+downloaded_songs/*
